@@ -1,0 +1,300 @@
+,age,anaemia,creatinine_phosphokinase,diabetes,ejection_fraction,high_blood_pressure,platelets,serum_creatinine,serum_sodium,sex,smoking,time,DEATH_EVENT
+0,75.0,Not Present,582,Not Present,20,Present,265000.0,1.9,130,Male,No,4,Alive
+1,55.0,Not Present,7861,Not Present,38,Not Present,263358.03,1.1,136,Male,No,6,Alive
+2,65.0,Not Present,146,Not Present,20,Not Present,162000.0,1.3,129,Male,Yes,7,Alive
+3,50.0,Present,111,Not Present,20,Not Present,210000.0,1.9,137,Male,No,7,Alive
+4,65.0,Present,160,Present,20,Not Present,327000.0,2.7,116,Female,No,8,Alive
+5,90.0,Present,47,Not Present,40,Present,204000.0,2.1,132,Male,Yes,8,Alive
+6,75.0,Present,246,Not Present,15,Not Present,127000.0,1.2,137,Male,No,10,Alive
+7,60.0,Present,315,Present,60,Not Present,454000.0,1.1,131,Male,Yes,10,Alive
+8,65.0,Not Present,157,Not Present,65,Not Present,263358.03,1.5,138,Female,No,10,Alive
+9,80.0,Present,123,Not Present,35,Present,388000.0,9.4,133,Male,Yes,10,Alive
+10,75.0,Present,81,Not Present,38,Present,368000.0,4.0,131,Male,Yes,10,Alive
+11,62.0,Not Present,231,Not Present,25,Present,253000.0,0.9,140,Male,Yes,10,Alive
+12,45.0,Present,981,Not Present,30,Not Present,136000.0,1.1,137,Male,No,11,Alive
+13,50.0,Present,168,Not Present,38,Present,276000.0,1.1,137,Male,No,11,Alive
+14,49.0,Present,80,Not Present,30,Present,427000.0,1.0,138,Female,No,12,Dead
+15,82.0,Present,379,Not Present,50,Not Present,47000.0,1.3,136,Male,No,13,Alive
+16,87.0,Present,149,Not Present,38,Not Present,262000.0,0.9,140,Male,No,14,Alive
+17,45.0,Not Present,582,Not Present,14,Not Present,166000.0,0.8,127,Male,No,14,Alive
+18,70.0,Present,125,Not Present,25,Present,237000.0,1.0,140,Female,No,15,Alive
+19,48.0,Present,582,Present,55,Not Present,87000.0,1.9,121,Female,No,15,Alive
+20,65.0,Present,52,Not Present,25,Present,276000.0,1.3,137,Female,No,16,Dead
+21,65.0,Present,128,Present,30,Present,297000.0,1.6,136,Female,No,20,Alive
+22,68.0,Present,220,Not Present,35,Present,289000.0,0.9,140,Male,Yes,20,Alive
+23,53.0,Not Present,63,Present,60,Not Present,368000.0,0.8,135,Male,No,22,Dead
+24,75.0,Not Present,582,Present,30,Present,263358.03,1.83,134,Female,No,23,Alive
+25,80.0,Not Present,148,Present,38,Not Present,149000.0,1.9,144,Male,Yes,23,Alive
+26,95.0,Present,112,Not Present,40,Present,196000.0,1.0,138,Female,No,24,Alive
+27,70.0,Not Present,122,Present,45,Present,284000.0,1.3,136,Male,Yes,26,Alive
+28,58.0,Present,60,Not Present,38,Not Present,153000.0,5.8,134,Male,No,26,Alive
+29,82.0,Not Present,70,Present,30,Not Present,200000.0,1.2,132,Male,Yes,26,Alive
+30,94.0,Not Present,582,Present,38,Present,263358.03,1.83,134,Male,No,27,Alive
+31,85.0,Not Present,23,Not Present,45,Not Present,360000.0,3.0,132,Male,No,28,Alive
+32,50.0,Present,249,Present,35,Present,319000.0,1.0,128,Female,No,28,Alive
+33,50.0,Present,159,Present,30,Not Present,302000.0,1.2,138,Female,No,29,Dead
+34,65.0,Not Present,94,Present,50,Present,188000.0,1.0,140,Male,No,29,Alive
+35,69.0,Not Present,582,Present,35,Not Present,228000.0,3.5,134,Male,No,30,Alive
+36,90.0,Present,60,Present,50,Not Present,226000.0,1.0,134,Male,No,30,Alive
+37,82.0,Present,855,Present,50,Present,321000.0,1.0,145,Female,No,30,Alive
+38,60.0,Not Present,2656,Present,30,Not Present,305000.0,2.3,137,Male,No,30,Dead
+39,60.0,Not Present,235,Present,38,Not Present,329000.0,3.0,142,Female,No,30,Alive
+40,70.0,Not Present,582,Not Present,20,Present,263358.03,1.83,134,Male,Yes,31,Alive
+41,50.0,Not Present,124,Present,30,Present,153000.0,1.2,136,Female,Yes,32,Alive
+42,70.0,Not Present,571,Present,45,Present,185000.0,1.2,139,Male,Yes,33,Alive
+43,72.0,Not Present,127,Present,50,Present,218000.0,1.0,134,Male,No,33,Dead
+44,60.0,Present,588,Present,60,Not Present,194000.0,1.1,142,Female,No,33,Alive
+45,50.0,Not Present,582,Present,38,Not Present,310000.0,1.9,135,Male,Yes,35,Alive
+46,51.0,Not Present,1380,Not Present,25,Present,271000.0,0.9,130,Male,No,38,Alive
+47,60.0,Not Present,582,Present,38,Present,451000.0,0.6,138,Male,Yes,40,Alive
+48,80.0,Present,553,Not Present,20,Present,140000.0,4.4,133,Male,No,41,Alive
+49,57.0,Present,129,Not Present,30,Not Present,395000.0,1.0,140,Female,No,42,Alive
+50,68.0,Present,577,Not Present,25,Present,166000.0,1.0,138,Male,No,43,Alive
+51,53.0,Present,91,Not Present,20,Present,418000.0,1.4,139,Female,No,43,Alive
+52,60.0,Not Present,3964,Present,62,Not Present,263358.03,6.8,146,Female,No,43,Alive
+53,70.0,Present,69,Present,50,Present,351000.0,1.0,134,Female,No,44,Alive
+54,60.0,Present,260,Present,38,Not Present,255000.0,2.2,132,Female,Yes,45,Alive
+55,95.0,Present,371,Not Present,30,Not Present,461000.0,2.0,132,Male,No,50,Alive
+56,70.0,Present,75,Not Present,35,Not Present,223000.0,2.7,138,Male,Yes,54,Dead
+57,60.0,Present,607,Not Present,40,Not Present,216000.0,0.6,138,Male,Yes,54,Dead
+58,49.0,Not Present,789,Not Present,20,Present,319000.0,1.1,136,Male,Yes,55,Alive
+59,72.0,Not Present,364,Present,20,Present,254000.0,1.3,136,Male,Yes,59,Alive
+60,45.0,Not Present,7702,Present,25,Present,390000.0,1.0,139,Male,No,60,Alive
+61,50.0,Not Present,318,Not Present,40,Present,216000.0,2.3,131,Female,No,60,Alive
+62,55.0,Not Present,109,Not Present,35,Not Present,254000.0,1.1,139,Male,Yes,60,Dead
+63,45.0,Not Present,582,Not Present,35,Not Present,385000.0,1.0,145,Male,No,61,Alive
+64,45.0,Not Present,582,Not Present,80,Not Present,263358.03,1.18,137,Female,No,63,Dead
+65,60.0,Not Present,68,Not Present,20,Not Present,119000.0,2.9,127,Male,Yes,64,Alive
+66,42.0,Present,250,Present,15,Not Present,213000.0,1.3,136,Female,No,65,Alive
+67,72.0,Present,110,Not Present,25,Not Present,274000.0,1.0,140,Male,Yes,65,Alive
+68,70.0,Not Present,161,Not Present,25,Not Present,244000.0,1.2,142,Female,No,66,Alive
+69,65.0,Not Present,113,Present,25,Not Present,497000.0,1.83,135,Male,No,67,Alive
+70,41.0,Not Present,148,Not Present,40,Not Present,374000.0,0.8,140,Male,Yes,68,Dead
+71,58.0,Not Present,582,Present,35,Not Present,122000.0,0.9,139,Male,Yes,71,Dead
+72,85.0,Not Present,5882,Not Present,35,Not Present,243000.0,1.0,132,Male,Yes,72,Alive
+73,65.0,Not Present,224,Present,50,Not Present,149000.0,1.3,137,Male,Yes,72,Dead
+74,69.0,Not Present,582,Not Present,20,Not Present,266000.0,1.2,134,Male,Yes,73,Alive
+75,60.0,Present,47,Not Present,20,Not Present,204000.0,0.7,139,Male,Yes,73,Alive
+76,70.0,Not Present,92,Not Present,60,Present,317000.0,0.8,140,Female,Yes,74,Dead
+77,42.0,Not Present,102,Present,40,Not Present,237000.0,1.2,140,Male,No,74,Dead
+78,75.0,Present,203,Present,38,Present,283000.0,0.6,131,Male,Yes,74,Dead
+79,55.0,Not Present,336,Not Present,45,Present,324000.0,0.9,140,Female,No,74,Dead
+80,70.0,Not Present,69,Not Present,40,Not Present,293000.0,1.7,136,Female,No,75,Dead
+81,67.0,Not Present,582,Not Present,50,Not Present,263358.03,1.18,137,Male,Yes,76,Dead
+82,60.0,Present,76,Present,25,Not Present,196000.0,2.5,132,Female,No,77,Alive
+83,79.0,Present,55,Not Present,50,Present,172000.0,1.8,133,Male,No,78,Dead
+84,59.0,Present,280,Present,25,Present,302000.0,1.0,141,Female,No,78,Alive
+85,51.0,Not Present,78,Not Present,50,Not Present,406000.0,0.7,140,Male,No,79,Dead
+86,55.0,Not Present,47,Not Present,35,Present,173000.0,1.1,137,Male,No,79,Dead
+87,65.0,Present,68,Present,60,Present,304000.0,0.8,140,Male,No,79,Dead
+88,44.0,Not Present,84,Present,40,Present,235000.0,0.7,139,Male,No,79,Dead
+89,57.0,Present,115,Not Present,25,Present,181000.0,1.1,144,Male,No,79,Dead
+90,70.0,Not Present,66,Present,45,Not Present,249000.0,0.8,136,Male,Yes,80,Dead
+91,60.0,Not Present,897,Present,45,Not Present,297000.0,1.0,133,Male,No,80,Dead
+92,42.0,Not Present,582,Not Present,60,Not Present,263358.03,1.18,137,Female,No,82,Dead
+93,60.0,Present,154,Not Present,25,Not Present,210000.0,1.7,135,Male,No,82,Alive
+94,58.0,Not Present,144,Present,38,Present,327000.0,0.7,142,Female,No,83,Dead
+95,58.0,Present,133,Not Present,60,Present,219000.0,1.0,141,Male,No,83,Dead
+96,63.0,Present,514,Present,25,Present,254000.0,1.3,134,Male,No,83,Dead
+97,70.0,Present,59,Not Present,60,Not Present,255000.0,1.1,136,Female,No,85,Dead
+98,60.0,Present,156,Present,25,Present,318000.0,1.2,137,Female,No,85,Dead
+99,63.0,Present,61,Present,40,Not Present,221000.0,1.1,140,Female,No,86,Dead
+100,65.0,Present,305,Not Present,25,Not Present,298000.0,1.1,141,Male,No,87,Dead
+101,75.0,Not Present,582,Not Present,45,Present,263358.03,1.18,137,Male,No,87,Dead
+102,80.0,Not Present,898,Not Present,25,Not Present,149000.0,1.1,144,Male,Yes,87,Dead
+103,42.0,Not Present,5209,Not Present,30,Not Present,226000.0,1.0,140,Male,Yes,87,Dead
+104,60.0,Not Present,53,Not Present,50,Present,286000.0,2.3,143,Female,No,87,Dead
+105,72.0,Present,328,Not Present,30,Present,621000.0,1.7,138,Female,Yes,88,Alive
+106,55.0,Not Present,748,Not Present,45,Not Present,263000.0,1.3,137,Male,No,88,Dead
+107,45.0,Present,1876,Present,35,Not Present,226000.0,0.9,138,Male,No,88,Dead
+108,63.0,Not Present,936,Not Present,38,Not Present,304000.0,1.1,133,Male,Yes,88,Dead
+109,45.0,Not Present,292,Present,35,Not Present,850000.0,1.3,142,Male,Yes,88,Dead
+110,85.0,Not Present,129,Not Present,60,Not Present,306000.0,1.2,132,Male,Yes,90,Alive
+111,55.0,Not Present,60,Not Present,35,Not Present,228000.0,1.2,135,Male,Yes,90,Dead
+112,50.0,Not Present,369,Present,25,Not Present,252000.0,1.6,136,Male,No,90,Dead
+113,70.0,Present,143,Not Present,60,Not Present,351000.0,1.3,137,Female,No,90,Alive
+114,60.0,Present,754,Present,40,Present,328000.0,1.2,126,Male,No,91,Dead
+115,58.0,Present,400,Not Present,40,Not Present,164000.0,1.0,139,Female,No,91,Dead
+116,60.0,Present,96,Present,60,Present,271000.0,0.7,136,Female,No,94,Dead
+117,85.0,Present,102,Not Present,60,Not Present,507000.0,3.2,138,Female,No,94,Dead
+118,65.0,Present,113,Present,60,Present,203000.0,0.9,140,Female,No,94,Dead
+119,86.0,Not Present,582,Not Present,38,Not Present,263358.03,1.83,134,Female,No,95,Alive
+120,60.0,Present,737,Not Present,60,Present,210000.0,1.5,135,Male,Yes,95,Dead
+121,66.0,Present,68,Present,38,Present,162000.0,1.0,136,Female,No,95,Dead
+122,60.0,Not Present,96,Present,38,Not Present,228000.0,0.75,140,Female,No,95,Dead
+123,60.0,Present,582,Not Present,30,Present,127000.0,0.9,145,Female,No,95,Dead
+124,60.0,Not Present,582,Not Present,40,Not Present,217000.0,3.7,134,Male,No,96,Alive
+125,43.0,Present,358,Not Present,50,Not Present,237000.0,1.3,135,Female,No,97,Dead
+126,46.0,Not Present,168,Present,17,Present,271000.0,2.1,124,Female,No,100,Alive
+127,58.0,Present,200,Present,60,Not Present,300000.0,0.8,137,Female,No,104,Dead
+128,61.0,Not Present,248,Not Present,30,Present,267000.0,0.7,136,Male,Yes,104,Dead
+129,53.0,Present,270,Present,35,Not Present,227000.0,3.4,145,Male,No,105,Dead
+130,53.0,Present,1808,Not Present,60,Present,249000.0,0.7,138,Male,Yes,106,Dead
+131,60.0,Present,1082,Present,45,Not Present,250000.0,6.1,131,Male,No,107,Dead
+132,46.0,Not Present,719,Not Present,40,Present,263358.03,1.18,137,Female,No,107,Dead
+133,63.0,Not Present,193,Not Present,60,Present,295000.0,1.3,145,Male,Yes,107,Dead
+134,81.0,Not Present,4540,Not Present,35,Not Present,231000.0,1.18,137,Male,Yes,107,Dead
+135,75.0,Not Present,582,Not Present,40,Not Present,263358.03,1.18,137,Male,No,107,Dead
+136,65.0,Present,59,Present,60,Not Present,172000.0,0.9,137,Female,No,107,Dead
+137,68.0,Present,646,Not Present,25,Not Present,305000.0,2.1,130,Male,No,108,Dead
+138,62.0,Not Present,281,Present,35,Not Present,221000.0,1.0,136,Female,No,108,Dead
+139,50.0,Not Present,1548,Not Present,30,Present,211000.0,0.8,138,Male,No,108,Dead
+140,80.0,Not Present,805,Not Present,38,Not Present,263358.03,1.1,134,Male,No,109,Alive
+141,46.0,Present,291,Not Present,35,Not Present,348000.0,0.9,140,Female,No,109,Dead
+142,50.0,Not Present,482,Present,30,Not Present,329000.0,0.9,132,Female,No,109,Dead
+143,61.0,Present,84,Not Present,40,Present,229000.0,0.9,141,Female,No,110,Dead
+144,72.0,Present,943,Not Present,25,Present,338000.0,1.7,139,Male,Yes,111,Alive
+145,50.0,Not Present,185,Not Present,30,Not Present,266000.0,0.7,141,Male,Yes,112,Dead
+146,52.0,Not Present,132,Not Present,30,Not Present,218000.0,0.7,136,Male,Yes,112,Dead
+147,64.0,Not Present,1610,Not Present,60,Not Present,242000.0,1.0,137,Male,No,113,Dead
+148,75.0,Present,582,Not Present,30,Not Present,225000.0,1.83,134,Male,No,113,Alive
+149,60.0,Not Present,2261,Not Present,35,Present,228000.0,0.9,136,Male,No,115,Dead
+150,72.0,Not Present,233,Not Present,45,Present,235000.0,2.5,135,Female,No,115,Alive
+151,62.0,Not Present,30,Present,60,Present,244000.0,0.9,139,Male,No,117,Dead
+152,50.0,Not Present,115,Not Present,45,Present,184000.0,0.9,134,Male,Yes,118,Dead
+153,50.0,Not Present,1846,Present,35,Not Present,263358.03,1.18,137,Male,Yes,119,Dead
+154,65.0,Present,335,Not Present,35,Present,235000.0,0.8,136,Female,No,120,Dead
+155,60.0,Present,231,Present,25,Not Present,194000.0,1.7,140,Male,No,120,Dead
+156,52.0,Present,58,Not Present,35,Not Present,277000.0,1.4,136,Female,No,120,Dead
+157,50.0,Not Present,250,Not Present,25,Not Present,262000.0,1.0,136,Male,Yes,120,Dead
+158,85.0,Present,910,Not Present,50,Not Present,235000.0,1.3,134,Male,No,121,Dead
+159,59.0,Present,129,Not Present,45,Present,362000.0,1.1,139,Male,Yes,121,Dead
+160,66.0,Present,72,Not Present,40,Present,242000.0,1.2,134,Male,No,121,Dead
+161,45.0,Present,130,Not Present,35,Not Present,174000.0,0.8,139,Male,Yes,121,Dead
+162,63.0,Present,582,Not Present,40,Not Present,448000.0,0.9,137,Male,Yes,123,Dead
+163,50.0,Present,2334,Present,35,Not Present,75000.0,0.9,142,Female,No,126,Alive
+164,45.0,Not Present,2442,Present,30,Not Present,334000.0,1.1,139,Male,No,129,Alive
+165,80.0,Not Present,776,Present,38,Present,192000.0,1.3,135,Female,No,130,Alive
+166,53.0,Not Present,196,Not Present,60,Not Present,220000.0,0.7,133,Male,Yes,134,Dead
+167,59.0,Not Present,66,Present,20,Not Present,70000.0,2.4,134,Male,No,135,Alive
+168,65.0,Not Present,582,Present,40,Not Present,270000.0,1.0,138,Female,No,140,Dead
+169,70.0,Not Present,835,Not Present,35,Present,305000.0,0.8,133,Female,No,145,Dead
+170,51.0,Present,582,Present,35,Not Present,263358.03,1.5,136,Male,Yes,145,Dead
+171,52.0,Not Present,3966,Not Present,40,Not Present,325000.0,0.9,140,Male,Yes,146,Dead
+172,70.0,Present,171,Not Present,60,Present,176000.0,1.1,145,Male,Yes,146,Dead
+173,50.0,Present,115,Not Present,20,Not Present,189000.0,0.8,139,Male,No,146,Dead
+174,65.0,Not Present,198,Present,35,Present,281000.0,0.9,137,Male,Yes,146,Dead
+175,60.0,Present,95,Not Present,60,Not Present,337000.0,1.0,138,Male,Yes,146,Dead
+176,69.0,Not Present,1419,Not Present,40,Not Present,105000.0,1.0,135,Male,Yes,147,Dead
+177,49.0,Present,69,Not Present,50,Not Present,132000.0,1.0,140,Female,No,147,Dead
+178,63.0,Present,122,Present,60,Not Present,267000.0,1.2,145,Male,No,147,Dead
+179,55.0,Not Present,835,Not Present,40,Not Present,279000.0,0.7,140,Male,Yes,147,Dead
+180,40.0,Not Present,478,Present,30,Not Present,303000.0,0.9,136,Male,No,148,Dead
+181,59.0,Present,176,Present,25,Not Present,221000.0,1.0,136,Male,Yes,150,Alive
+182,65.0,Not Present,395,Present,25,Not Present,265000.0,1.2,136,Male,Yes,154,Alive
+183,75.0,Not Present,99,Not Present,38,Present,224000.0,2.5,134,Male,No,162,Alive
+184,58.0,Present,145,Not Present,25,Not Present,219000.0,1.2,137,Male,Yes,170,Alive
+185,60.667,Present,104,Present,30,Not Present,389000.0,1.5,136,Male,No,171,Alive
+186,50.0,Not Present,582,Not Present,50,Not Present,153000.0,0.6,134,Female,No,172,Alive
+187,60.0,Not Present,1896,Present,25,Not Present,365000.0,2.1,144,Female,No,172,Alive
+188,60.667,Present,151,Present,40,Present,201000.0,1.0,136,Female,No,172,Dead
+189,40.0,Not Present,244,Not Present,45,Present,275000.0,0.9,140,Female,No,174,Dead
+190,80.0,Not Present,582,Present,35,Not Present,350000.0,2.1,134,Male,No,174,Dead
+191,64.0,Present,62,Not Present,60,Not Present,309000.0,1.5,135,Female,No,174,Dead
+192,50.0,Present,121,Present,40,Not Present,260000.0,0.7,130,Male,No,175,Dead
+193,73.0,Present,231,Present,30,Not Present,160000.0,1.18,142,Male,Yes,180,Dead
+194,45.0,Not Present,582,Not Present,20,Present,126000.0,1.6,135,Male,No,180,Alive
+195,77.0,Present,418,Not Present,45,Not Present,223000.0,1.8,145,Male,No,180,Alive
+196,45.0,Not Present,582,Present,38,Present,263358.03,1.18,137,Female,No,185,Dead
+197,65.0,Not Present,167,Not Present,30,Not Present,259000.0,0.8,138,Female,No,186,Dead
+198,50.0,Present,582,Present,20,Present,279000.0,1.0,134,Female,No,186,Dead
+199,60.0,Not Present,1211,Present,35,Not Present,263358.03,1.8,113,Male,Yes,186,Dead
+200,63.0,Present,1767,Not Present,45,Not Present,73000.0,0.7,137,Male,No,186,Dead
+201,45.0,Not Present,308,Present,60,Present,377000.0,1.0,136,Male,No,186,Dead
+202,70.0,Not Present,97,Not Present,60,Present,220000.0,0.9,138,Male,No,186,Dead
+203,60.0,Not Present,59,Not Present,25,Present,212000.0,3.5,136,Male,Yes,187,Dead
+204,78.0,Present,64,Not Present,40,Not Present,277000.0,0.7,137,Male,Yes,187,Dead
+205,50.0,Present,167,Present,45,Not Present,362000.0,1.0,136,Female,No,187,Dead
+206,40.0,Present,101,Not Present,40,Not Present,226000.0,0.8,141,Female,No,187,Dead
+207,85.0,Not Present,212,Not Present,38,Not Present,186000.0,0.9,136,Male,No,187,Dead
+208,60.0,Present,2281,Present,40,Not Present,283000.0,1.0,141,Female,No,187,Dead
+209,49.0,Not Present,972,Present,35,Present,268000.0,0.8,130,Female,No,187,Dead
+210,70.0,Not Present,212,Present,17,Present,389000.0,1.0,136,Male,Yes,188,Dead
+211,50.0,Not Present,582,Not Present,62,Present,147000.0,0.8,140,Male,Yes,192,Dead
+212,78.0,Not Present,224,Not Present,50,Not Present,481000.0,1.4,138,Male,Yes,192,Dead
+213,48.0,Present,131,Present,30,Present,244000.0,1.6,130,Female,No,193,Alive
+214,65.0,Present,135,Not Present,35,Present,290000.0,0.8,134,Male,No,194,Dead
+215,73.0,Not Present,582,Not Present,35,Present,203000.0,1.3,134,Male,No,195,Dead
+216,70.0,Not Present,1202,Not Present,50,Present,358000.0,0.9,141,Female,No,196,Dead
+217,54.0,Present,427,Not Present,70,Present,151000.0,9.0,137,Female,No,196,Alive
+218,68.0,Present,1021,Present,35,Not Present,271000.0,1.1,134,Male,No,197,Dead
+219,55.0,Not Present,582,Present,35,Present,371000.0,0.7,140,Female,No,197,Dead
+220,73.0,Not Present,582,Not Present,20,Not Present,263358.03,1.83,134,Male,No,198,Alive
+221,65.0,Not Present,118,Not Present,50,Not Present,194000.0,1.1,145,Male,Yes,200,Dead
+222,42.0,Present,86,Not Present,35,Not Present,365000.0,1.1,139,Male,Yes,201,Dead
+223,47.0,Not Present,582,Not Present,25,Not Present,130000.0,0.8,134,Male,No,201,Dead
+224,58.0,Not Present,582,Present,25,Not Present,504000.0,1.0,138,Male,No,205,Dead
+225,75.0,Not Present,675,Present,60,Not Present,265000.0,1.4,125,Female,No,205,Dead
+226,58.0,Present,57,Not Present,25,Not Present,189000.0,1.3,132,Male,Yes,205,Dead
+227,55.0,Present,2794,Not Present,35,Present,141000.0,1.0,140,Male,No,206,Dead
+228,65.0,Not Present,56,Not Present,25,Not Present,237000.0,5.0,130,Female,No,207,Dead
+229,72.0,Not Present,211,Not Present,25,Not Present,274000.0,1.2,134,Female,No,207,Dead
+230,60.0,Not Present,166,Not Present,30,Not Present,62000.0,1.7,127,Female,No,207,Alive
+231,70.0,Not Present,93,Not Present,35,Not Present,185000.0,1.1,134,Male,Yes,208,Dead
+232,40.0,Present,129,Not Present,35,Not Present,255000.0,0.9,137,Male,No,209,Dead
+233,53.0,Present,707,Not Present,38,Not Present,330000.0,1.4,137,Male,Yes,209,Dead
+234,53.0,Present,582,Not Present,45,Not Present,305000.0,1.1,137,Male,Yes,209,Dead
+235,77.0,Present,109,Not Present,50,Present,406000.0,1.1,137,Male,No,209,Dead
+236,75.0,Not Present,119,Not Present,50,Present,248000.0,1.1,148,Male,No,209,Dead
+237,70.0,Not Present,232,Not Present,30,Not Present,173000.0,1.2,132,Male,No,210,Dead
+238,65.0,Present,720,Present,40,Not Present,257000.0,1.0,136,Female,No,210,Dead
+239,55.0,Present,180,Not Present,45,Not Present,263358.03,1.18,137,Male,Yes,211,Dead
+240,70.0,Not Present,81,Present,35,Present,533000.0,1.3,139,Female,No,212,Dead
+241,65.0,Not Present,582,Present,30,Not Present,249000.0,1.3,136,Male,Yes,212,Dead
+242,40.0,Not Present,90,Not Present,35,Not Present,255000.0,1.1,136,Male,Yes,212,Dead
+243,73.0,Present,1185,Not Present,40,Present,220000.0,0.9,141,Female,No,213,Dead
+244,54.0,Not Present,582,Present,38,Not Present,264000.0,1.8,134,Male,No,213,Dead
+245,61.0,Present,80,Present,38,Not Present,282000.0,1.4,137,Male,No,213,Dead
+246,55.0,Not Present,2017,Not Present,25,Not Present,314000.0,1.1,138,Male,No,214,Alive
+247,64.0,Not Present,143,Not Present,25,Not Present,246000.0,2.4,135,Male,No,214,Dead
+248,40.0,Not Present,624,Not Present,35,Not Present,301000.0,1.0,142,Male,Yes,214,Dead
+249,53.0,Not Present,207,Present,40,Not Present,223000.0,1.2,130,Female,No,214,Dead
+250,50.0,Not Present,2522,Not Present,30,Present,404000.0,0.5,139,Female,No,214,Dead
+251,55.0,Not Present,572,Present,35,Not Present,231000.0,0.8,143,Female,No,215,Dead
+252,50.0,Not Present,245,Not Present,45,Present,274000.0,1.0,133,Male,No,215,Dead
+253,70.0,Not Present,88,Present,35,Present,236000.0,1.2,132,Female,No,215,Dead
+254,53.0,Present,446,Not Present,60,Present,263358.03,1.0,139,Male,No,215,Dead
+255,52.0,Present,191,Present,30,Present,334000.0,1.0,142,Male,Yes,216,Dead
+256,65.0,Not Present,326,Not Present,38,Not Present,294000.0,1.7,139,Female,No,220,Dead
+257,58.0,Not Present,132,Present,38,Present,253000.0,1.0,139,Male,No,230,Dead
+258,45.0,Present,66,Present,25,Not Present,233000.0,0.8,135,Male,No,230,Dead
+259,53.0,Not Present,56,Not Present,50,Not Present,308000.0,0.7,135,Male,Yes,231,Dead
+260,55.0,Not Present,66,Not Present,40,Not Present,203000.0,1.0,138,Male,No,233,Dead
+261,62.0,Present,655,Not Present,40,Not Present,283000.0,0.7,133,Female,No,233,Dead
+262,65.0,Present,258,Present,25,Not Present,198000.0,1.4,129,Male,No,235,Alive
+263,68.0,Present,157,Present,60,Not Present,208000.0,1.0,140,Female,No,237,Dead
+264,61.0,Not Present,582,Present,38,Not Present,147000.0,1.2,141,Male,No,237,Dead
+265,50.0,Present,298,Not Present,35,Not Present,362000.0,0.9,140,Male,Yes,240,Dead
+266,55.0,Not Present,1199,Not Present,20,Not Present,263358.03,1.83,134,Male,Yes,241,Alive
+267,56.0,Present,135,Present,38,Not Present,133000.0,1.7,140,Male,No,244,Dead
+268,45.0,Not Present,582,Present,38,Not Present,302000.0,0.9,140,Female,No,244,Dead
+269,40.0,Not Present,582,Present,35,Not Present,222000.0,1.0,132,Male,No,244,Dead
+270,44.0,Not Present,582,Present,30,Present,263358.03,1.6,130,Male,Yes,244,Dead
+271,51.0,Not Present,582,Present,40,Not Present,221000.0,0.9,134,Female,No,244,Dead
+272,67.0,Not Present,213,Not Present,38,Not Present,215000.0,1.2,133,Female,No,245,Dead
+273,42.0,Not Present,64,Not Present,40,Not Present,189000.0,0.7,140,Male,No,245,Dead
+274,60.0,Present,257,Present,30,Not Present,150000.0,1.0,137,Male,Yes,245,Dead
+275,45.0,Not Present,582,Not Present,38,Present,422000.0,0.8,137,Female,No,245,Dead
+276,70.0,Not Present,618,Not Present,35,Not Present,327000.0,1.1,142,Female,No,245,Dead
+277,70.0,Not Present,582,Present,38,Not Present,25100.0,1.1,140,Male,No,246,Dead
+278,50.0,Present,1051,Present,30,Not Present,232000.0,0.7,136,Female,No,246,Dead
+279,55.0,Not Present,84,Present,38,Not Present,451000.0,1.3,136,Female,No,246,Dead
+280,70.0,Not Present,2695,Present,40,Not Present,241000.0,1.0,137,Male,No,247,Dead
+281,70.0,Not Present,582,Not Present,40,Not Present,51000.0,2.7,136,Male,Yes,250,Dead
+282,42.0,Not Present,64,Not Present,30,Not Present,215000.0,3.8,128,Male,Yes,250,Dead
+283,65.0,Not Present,1688,Not Present,38,Not Present,263358.03,1.1,138,Male,Yes,250,Dead
+284,50.0,Present,54,Not Present,40,Not Present,279000.0,0.8,141,Male,No,250,Dead
+285,55.0,Present,170,Present,40,Not Present,336000.0,1.2,135,Male,No,250,Dead
+286,60.0,Not Present,253,Not Present,35,Not Present,279000.0,1.7,140,Male,No,250,Dead
+287,45.0,Not Present,582,Present,55,Not Present,543000.0,1.0,132,Female,No,250,Dead
+288,65.0,Not Present,892,Present,35,Not Present,263358.03,1.1,142,Female,No,256,Dead
+289,90.0,Present,337,Not Present,38,Not Present,390000.0,0.9,144,Female,No,256,Dead
+290,45.0,Not Present,615,Present,55,Not Present,222000.0,0.8,141,Female,No,257,Dead
+291,60.0,Not Present,320,Not Present,35,Not Present,133000.0,1.4,139,Male,No,258,Dead
+292,52.0,Not Present,190,Present,38,Not Present,382000.0,1.0,140,Male,Yes,258,Dead
+293,63.0,Present,103,Present,35,Not Present,179000.0,0.9,136,Male,Yes,270,Dead
+294,62.0,Not Present,61,Present,38,Present,155000.0,1.1,143,Male,Yes,270,Dead
+295,55.0,Not Present,1820,Not Present,38,Not Present,270000.0,1.2,139,Female,No,271,Dead
+296,45.0,Not Present,2060,Present,60,Not Present,742000.0,0.8,138,Female,No,278,Dead
+297,45.0,Not Present,2413,Not Present,38,Not Present,140000.0,1.4,140,Male,Yes,280,Dead
+298,50.0,Not Present,196,Not Present,45,Not Present,395000.0,1.6,136,Male,Yes,285,Dead
