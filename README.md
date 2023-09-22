@@ -16,4 +16,5 @@ Dataset Link: https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+rec
 
 Mural with datset description, dashboard users, potential questions, and dashboard plots: [Mural Link](https://app.mural.co/t/rishithareddyvari9194/m/rishithareddyvari9194/1680555988900/613a04ec393c741209b696e04118619c74878cbc?invited=true&sender=u11f0b2af98577346f38b1065)
 
-Published Tableau Dashboard Link: [Dashboard Link](https://public.tableau.com/app/profile/aswayuja.koduri/viz/project_plots_final/Dashboard1?publish=yes)
+Published Tableau Dashboard: ![image](https://github.com/AswayujaK/Heart-Failure-Records-Analysis/assets/93896612/fc2669c1-14df-4b66-85f0-2d35f6364afc)
+Link: [Dashboard Link](https://public.tableau.com/app/profile/aswayuja.koduri/viz/project_plots_final/Dashboard1?publish=yes)
