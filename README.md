@@ -18,4 +18,5 @@ Mural with datset description, dashboard users, potential questions, and dashboa
 
 Published Tableau Dashboard: 
 ![image](https://github.com/AswayujaK/Heart-Failure-Records-Analysis/assets/93896612/fc2669c1-14df-4b66-85f0-2d35f6364afc)
-Dashboard Link: [Dashboard Link](https://public.tableau.com/app/profile/aswayuja.koduri/viz/project_plots_final/Dashboard1?publish=yes)
+
+[Dashboard Link](https://public.tableau.com/app/profile/aswayuja.koduri/viz/project_plots_final/Dashboard1?publish=yes)
